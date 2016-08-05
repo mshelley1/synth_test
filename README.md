@@ -1,2 +1,2 @@
-# synth_test.github.io
+# synth_test
 test site
