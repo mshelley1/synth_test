@@ -1,2 +1,3 @@
 # synth_test
-test site
+URL: https://mshelley1.github.io/synth_test/
+
